@@ -6,6 +6,8 @@ Conducte an in-depth analysis of the dataset to gain insights into the distribut
 
 Implementes and compared multiple machine learning algorithms, including logistic regression, random forest, and support vector machines, to identify the most suitable algorithm for the task. I trained the models using the preprocessed dataset and fine-tuned their hyperparameters using techniques like cross-validation and grid search.
 
+
+
 **Project Goals**:
 
 The goal was to build a model that could accurately classify fraudulent credit card transactions, thereby helping financial institutions detect and prevent fraudulent activities.
